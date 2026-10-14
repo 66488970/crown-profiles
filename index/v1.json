@@ -1,7 +1,7 @@
 {
   "kind": "crown-profile-index",
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T12:49:51Z",
+  "generatedAt": "2026-10-09T21:35:31Z",
   "profiles": [
     {
       "bundleId": "crown.crown-profile.3dc63735",
@@ -377,6 +377,23 @@
         "heightPx": 2800,
         "densityDpi": 476,
         "density": 2.9750001430511475,
+        "orientation": "portrait"
+      }
+    },
+    {
+      "bundleId": "crown.3.dcdb5160",
+      "name": "无主之地3",
+      "summary": "",
+      "author": "Blackscriptss",
+      "game": "",
+      "tags": [],
+      "updatedAt": "2026-10-09T21:35:31Z",
+      "url": "../profiles/general/3-dcdb5160.crown.json",
+      "layoutBasis": {
+        "widthPx": 1080,
+        "heightPx": 2400,
+        "densityDpi": 338,
+        "density": 2.112499952316284,
         "orientation": "portrait"
       }
     },
